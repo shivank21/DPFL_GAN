@@ -1,0 +1,6 @@
+torchmetrics
+argparse
+torch
+torchvision
+opacus
+tqdm
