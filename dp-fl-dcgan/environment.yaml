@@ -1,0 +1,11 @@
+name: dpgan
+dependencies:
+  - torchmetrics
+  - argparse
+  - pytorch
+  - torchvision
+  - opacus
+  - tqdm
+  - transformers 
+  - datasets
+  - sklearn
